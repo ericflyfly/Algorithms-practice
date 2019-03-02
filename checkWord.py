@@ -42,7 +42,7 @@ print ("Possible combinations: ", len(result))
 for combo in result:
     check = True
     if containLetters:
-        for char in containLetters:
+        for char in containLetters.upper():
             if char not in combo:
                 check = False
                 break
