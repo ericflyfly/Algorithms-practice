@@ -1,1 +1,1 @@
-# WordsStoryCheater
+# Algoriths-practice
